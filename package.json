@@ -1,0 +1,8 @@
+{
+  "name": "packege-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mazurkevich350501/packege-test.git",
+  "author": "Evgeny Mazurkevich <evgeny.mazurkevich@kreo.net>",
+  "license": "MIT"
+}
